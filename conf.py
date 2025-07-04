@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 
-project = 'pythonprojectone'
+project = 'experthelpsolutions'
 copyright = '2025, Author'
 author = 'Author'
 
